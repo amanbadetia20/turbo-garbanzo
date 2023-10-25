@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(228, 235, 173);
+}
+
+header{
+    background-color: rgb(255, 166, 0);
+}
+
+footer{
+    color: blue;
+}
+
+#table1, #table2{
+    text-align: center;
+}
+
+.th1c, .th2c{
+    background-color: rgb(205, 79, 79);
+    color: rgb(255, 255, 255);
+}
